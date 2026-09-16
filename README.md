@@ -24,19 +24,19 @@ The project uses SQL Server for data analysis and Power BI to build a four-page 
 ## Power BI Dashboards
 
 ### 1. Executive Overview
-
+![Executive Overview](executive-overview.png)
 Provides a company-wide overview of sales, revenue, average order value, orders, delivery time, order status, state-level revenue, and monthly revenue.
 
 ### 2. Sales & Product
-
+![Sales & Product](sales-product.png)
 Explores sales by product category, top product IDs by units sold, monthly sales, and payment type.
 
 ### 3. Customer & Seller
-
+![Customer & Seller](customer-seller.png)
 Shows customer distribution by state and city, seller revenue, and customer purchase frequency.
 
 ### 4. Delivery & Review
-
+![Delivery & Review](delivery-review.png)
 Analyzes delivery time, on-time and late delivery rates, and customer review ratings.
 
 ## Key Business Insights
